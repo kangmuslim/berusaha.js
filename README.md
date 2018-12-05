@@ -1,0 +1,2 @@
+# berusaha.js
+berusaha
